@@ -35,7 +35,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table >
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         Language
       </th>
     </tr>
@@ -55,7 +55,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table>
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         dev-Tools
       </th>
     </tr>
@@ -89,7 +89,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table >
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         Language
       </th>
     </tr>
@@ -106,7 +106,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table>
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         dev-Tools
       </th>
     </tr>
@@ -135,7 +135,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table >
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         Language
       </th>
     </tr>
@@ -156,7 +156,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table>
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         dev-Tools
       </th>
     </tr>
@@ -186,7 +186,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <kbd align="center">
   
 ## Project Alice Admin 
-<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/main/Image/AliceAdmin.jpg" width="400px" >
+<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/main/Image/AliceAdmin.jpg" width="300px" >
 <br>
 
 ## Stacks
@@ -194,7 +194,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table >
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         Language
       </th>
     </tr>
@@ -215,7 +215,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table>
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         dev-Tools
       </th>
     </tr>
@@ -242,7 +242,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <kbd align="center">
   
 ## Sanrio Virtual Festival 2024
-<img src="https://storage.googleapis.com/studio-design-asset-files/projects/G3qbEkMgOJ/s-1920x1080_v-frms_webp_9fc2f756-5f95-48eb-a924-fec770c26b62.webp" width="400px">
+<img src="https://storage.googleapis.com/studio-design-asset-files/projects/G3qbEkMgOJ/s-1920x1080_v-frms_webp_9fc2f756-5f95-48eb-a924-fec770c26b62.webp" width="300px">
 <br>
 
 ## Team 戊屡神ゆゆ
@@ -252,7 +252,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table >
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         Language
       </th>
     </tr>
@@ -269,7 +269,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <table>
   <thead>
     <tr>
-      <th width="400px">
+      <th width="300px">
         dev-Tools
       </th>
     </tr>
