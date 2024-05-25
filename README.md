@@ -1,9 +1,9 @@
 ## $${\color{yellow}Team \space Alice}$$
 
-<div align="center" > <img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/106c7adb459f56233ffdaa84b4c88b50c89d5c3e/Image/Project_Alice_Logo27.png" width="800px;" ></div>
-
+<div align="center" > <img src="https://github.com/rdcyosuzume/rdcyosuzume/blob/e00bc8f3a6869b5a1eea8c225f431bfe03294c2a/Project_Alice_Logo27.png" width="800px;" ></div>
 
 # 👋 Hi, I’m @rdcyosuzume (ヨスズメ）
+
 I'm Web Full Stack Developer °˖✧◝(⁰▿⁰)◜✧˖°
 
 My hoby is creating VR Contents or Web Service
@@ -12,7 +12,7 @@ I'm working in Team Alice (now)
 
 I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creator
 
-💞️ If you make some service or need help then plz contact us ٩(＾◡＾)۶
+💞️ If you make some service or need help then plz contact us ٩(＾ ◡ ＾)۶
 
 <details>
 <summary>
@@ -20,14 +20,13 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 ## ✨ My Works
 
 ---
-  
-</summary>
 
+</summary>
 
 <kbd align="center">
   
 ## Trance's Hotel with NPCs for Server
-<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/61eb3e41534dd32ed9b06cf80e1b30583e7b7302/Image/TranceHotel.PNG" width="200px" >
+<img src="https://github.com/rdcyosuzume/rdcyosuzume/blob/e00bc8f3a6869b5a1eea8c225f431bfe03294c2a/TranceHotel.PNG" width="200px" >
 <br>
 
 ## Stacks
@@ -81,7 +80,7 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 <kbd align="center">
   
 ## VRC Space Warfare
-<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/74a19bb74ba5f9c1397ebed2ce91d1a5b36ee2ae/Image/SpaceWarfare.PNG" width="200px" >
+<img src="https://github.com/rdcyosuzume/rdcyosuzume/blob/e00bc8f3a6869b5a1eea8c225f431bfe03294c2a/SpaceWarfare.PNG" width="200px" >
 <br>
 
 ## Stacks
@@ -123,11 +122,10 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 
 </kbd>
 
-
 <kbd align="center">
   
 ## Project Alice Service
-<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/61eb3e41534dd32ed9b06cf80e1b30583e7b7302/Image/AliceManager.PNG" width="200px" >
+<img src="https://github.com/rdcyosuzume/rdcyosuzume/blob/e00bc8f3a6869b5a1eea8c225f431bfe03294c2a/AliceManager.PNG" width="200px" >
 <br>
 
 ## Stacks
@@ -182,11 +180,10 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 
 </kbd>
 
-
 <kbd align="center">
   
 ## Project Alice Admin 
-<img src="https://github.com/rdcyosuzume/yosuzumeProfileImage/blob/main/Image/AliceAdmin.jpg" width="300px" >
+<img src="https://github.com/rdcyosuzume/rdcyosuzume/blob/e00bc8f3a6869b5a1eea8c225f431bfe03294c2a/AliceAdmin.jpg" width="300px" >
 <br>
 
 ## Stacks
@@ -332,7 +329,6 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 </tbody>
 </table>
 
-
 <table>
 <thead>
 <tr><td colspan="2" align="center" >Hoby</td></tr>
@@ -375,7 +371,4 @@ I enjoyed creating<code>Game</code> in VRC or <code>Web</code> Service for Creat
 </tbody>
 </table>
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rdcyosuzume&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
